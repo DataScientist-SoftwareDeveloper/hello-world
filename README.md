@@ -1,4 +1,4 @@
-![Captura de pantalla 2021-12-07 141744](https://user-images.githubusercontent.com/90872550/145085185-f923eced-855b-43bb-a2e7-74dd11f93758.png)
+
 # Hello-World
 1-My name is Douglas Torres
 
